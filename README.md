@@ -403,6 +403,7 @@ No Cisco certifications are listed in the current profile information.
 
 ---
 
+
 ## CONTRIBUTION SNAKE
 
 <p align="center">
@@ -418,6 +419,7 @@ No Cisco certifications are listed in the current profile information.
     <img
       src="https://raw.githubusercontent.com/Nikshithnayak/Nikshithnayak/output/github-contribution-grid-snake.svg"
       alt="GitHub Contribution Snake"
+      width="100%"
     />
   </picture>
 </p>
