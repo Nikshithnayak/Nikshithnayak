@@ -358,7 +358,7 @@ No Cisco certifications are listed in the current profile information.
   <img src="https://img.shields.io/badge/LeetCode-181818?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
+<a href="https://www.hackerrank.com/profile/nikshithnayak6">
   <img src="https://img.shields.io/badge/GeeksforGeeks-181818?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks" />
 </a>
 
