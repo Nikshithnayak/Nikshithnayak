@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nikshithnayak6@gmail.com">
+  <a href="https://nikshithnayak.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/">
